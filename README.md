@@ -1,4 +1,4 @@
-# Data-Science-Descriptive Tools
+# Data-Science-Descriptive-Tools
 Each of these projects focus on different tools that allow gaining insights from large data sets and create useful knowledge to understand the world (of business).
 
 ## Projet 1
